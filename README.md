@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋 I am Shubham
+### Hi there 👋 I am Shubham
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shubhamsingh2407/)
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br>
 
 - 👨🏾‍💻 I am a Software Engineer based in the UK. 
-- 🏫 Currently pursuing MSc in Computer Science. 
+- 🔭 Currently pursuing MSc in Computer Science. 
 - 🌱 I really enjoy learning about Frameworks, Backend Development and Cloud.
 
 ### Languages and Tools:
