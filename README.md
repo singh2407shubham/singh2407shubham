@@ -36,6 +36,3 @@ I am a Software Engineer based in the UK. Currently pursuing MSc in Computer Sci
 <br>
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
-
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh2407shubham)](https://github.com/anuraghazra/github-readme-stats)
-
