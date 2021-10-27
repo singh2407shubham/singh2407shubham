@@ -1,5 +1,3 @@
-### Hi there 👋, I am Shubham
-
 <!--
 **singh2407shubham/singh2407shubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋 I am Shubham
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shubhamsingh2407/)
+
 
 I am a Software Engineer from the UK. Currently pursuing MSc in Computer Science. I really enjoy learning about languages, frameworks, Backend Development and Cloud. You can checkout my LinkedIn at https://www.linkedin.com/in/shubhamsingh2407/.
 
