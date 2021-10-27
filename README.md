@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋 I am Shubham
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/Shubham-%230077B5.svg?&style=social&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shubhamsingh2407/)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/shubhamsingh2407-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shubhamsingh2407/)
 <br>
 
 I am a Software Engineer from the UK. Currently pursuing MSc in Computer Science. I really enjoy learning about languages, frameworks, Backend Development and Cloud. You can checkout my LinkedIn at https://www.linkedin.com/in/shubhamsingh2407/.
