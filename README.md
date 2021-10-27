@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Software Engineer from the UK. Currently pursuing MSc in Computer Science. I really enjoy learning about languages, frameworks, Backend Development and Cloud. You can checkout my LinkedIn at https://www.linkedin.com/in/shubhamsingh2407/.
+
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh2407shubham)](https://github.com/anuraghazra/github-readme-stats)
