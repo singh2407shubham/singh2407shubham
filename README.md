@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 👨🏾‍💻 I am a Software Engineer based in the UK. 
 - 🏫 Currently pursuing MSc in Computer Science. 
-- 🌱 I really enjoy learning about frameworks, Backend Development and Cloud.
+- 🌱 I really enjoy learning about Frameworks, Backend Development and Cloud.
 
 ### Languages and Tools:
 
