@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/@shubhamsingh247-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" />](https://twitter.com/ShubhamSingh247)
 <br>
 
-I am a Software Engineer based in the UK. Currently pursuing MSc in Computer Science. I really enjoy learning about languages, frameworks, Backend Development and Cloud.
+- 👨🏾‍💻 I am a Software Engineer based in the UK. 
+- 🏫 Currently pursuing MSc in Computer Science. 
+- 🌱 I really enjoy learning about frameworks, Backend Development and Cloud.
 
 ### Languages and Tools:
 
