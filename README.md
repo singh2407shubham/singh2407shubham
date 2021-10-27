@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋 I am Shubham
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shubhamsingh2407/)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shubhamsingh2407/)
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/@shubhamsingh247-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ShubhamSingh247)
 <br>
