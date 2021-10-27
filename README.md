@@ -27,8 +27,6 @@ I am a Software Engineer based in the UK. Currently pursuing MSc in Computer Sci
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 
-
-<br>
 <br>
 
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh2407shubham)](https://github.com/anuraghazra/github-readme-stats)
